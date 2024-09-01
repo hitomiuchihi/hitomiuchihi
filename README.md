@@ -1,8 +1,9 @@
 ## I'm Hitomi Uchihi. Thanks for your coming.
 
-### My Skill.
+### ASSET.
 ![no images...](my_asset.png)
 
+### STATUS.
 <!--
 **hitomiuchihi/hitomiuchihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
