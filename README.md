@@ -3,7 +3,7 @@
 ### 🌱ASSET.
 ![no images...](my_asset.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={hitomiuchihi}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitomiuchihi
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
