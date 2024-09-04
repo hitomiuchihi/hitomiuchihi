@@ -1,4 +1,4 @@
-## I'm Hitomi Uchihi🙌 Thanks for your coming🎉
+## I'm Hitomi Uchihi🙌 Thanks for your comming🎉
 ##### please call me "meme"👀
 
 ### 🌱 LANGUAGES & TOOLS.
