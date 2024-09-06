@@ -4,8 +4,21 @@
 ## I'm Hitomi Uchihi🙌 Thanks for your comming🎉
 ##### please call me "meme"👀
 
-### 🌱 LANGUAGES & TOOLS.
-![no images...](my_asset.png)
+## Programming Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,py,ruby,html,css)](https://skillicons.dev)
+
+## Frameworks & Libraries
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,rails,django,fastapi)](https://skillicons.dev)
+
+## Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+
+## DevOps & Tools
+[![DevOps & Tools](https://skillicons.dev/icons?i=docker,aws,github)](https://skillicons.dev)
+
+## Testing
+**Playwright** | **JMeter**
+
 ### 📊 DATA.
 
   <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitomiuchihi&layout=compact&show_icons=true&theme=gruvbox" />
