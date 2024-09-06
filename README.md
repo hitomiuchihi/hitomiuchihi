@@ -8,6 +8,7 @@
   <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitomiuchihi&layout=compact&show_icons=true" />
   <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=hitomiuchihi&show_icons=ture" />
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hitomiuchihi)](https://github.com/hitomiuchihi/hitomiuchihi/github-profile-trophy)
 <!--
 **hitomiuchihi/hitomiuchihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
