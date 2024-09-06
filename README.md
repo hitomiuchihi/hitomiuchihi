@@ -10,11 +10,8 @@
 ## Frameworks & Libraries
 [![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,rails,django,fastapi)](https://skillicons.dev)
 
-## Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
-
-## DevOps & Tools
-[![DevOps & Tools](https://skillicons.dev/icons?i=docker,aws,github)](https://skillicons.dev)
+## Databases & DevOps & Tools
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)   [![DevOps & Tools](https://skillicons.dev/icons?i=docker,aws,github)](https://skillicons.dev)
 
 ## Testing
 **Playwright** | **JMeter**
