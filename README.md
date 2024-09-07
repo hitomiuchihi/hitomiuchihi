@@ -17,8 +17,7 @@
 ---
 
 ### 🌱 DATA.
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitomiuchihi&layout=compact&show_icons=true&theme=gruvbox" />
-  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=hitomiuchihi&show_icons=true&theme=gruvbox" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitomiuchihi&layout=compact&show_icons=true&theme=gruvbox" />  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=hitomiuchihi&show_icons=true&theme=gruvbox" />
 
 ---
 
